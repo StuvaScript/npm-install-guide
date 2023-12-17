@@ -1,4 +1,4 @@
-#Creating an npm package
+# Creating an npm package
 
 ## Getting Started
 - Create a new git repo for your npm package and clone it locally.
@@ -35,4 +35,10 @@
 - In your new project, Use the 'import' function to import the functions from the package. (Normally you would use the 'require' function assigned to a variable for this but you're utilizing ES6 modules and not Common.js right now.)
 
 ## Links
-- [Swashbuckling with Code] (https://www.youtube.com/watch?v=WRjJW8tseQg)
+### Videos
+- [Swashbuckling with Code](https://www.youtube.com/watch?v=WRjJW8tseQg)
+- [JavaScript Mastery](https://www.youtube.com/watch?v=8FziherTC8M)
+- [Web Dev Simplified](https://www.youtube.com/watch?v=J4b_T-qH3BY)
+- [codedamn](https://www.youtube.com/watch?v=rTsz09zRuTU)
+### The Official Docs
+- [npm Docs](https://docs.npmjs.com/about-packages-and-modules)
