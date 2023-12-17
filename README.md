@@ -1,14 +1,14 @@
 # Creating an npm package
 
 ## Getting Started
-### First
+### Initial steps
 - Create a new git repo for your npm package and clone it locally.
 
 - Create an 'index.js' file and a 'README.md' file.
 
 - In the package folder type `npm init -y` to generate a 'package.json' file
 
-### Second
+### In the 'package.json' file
 - Change the name of the package to have '@stuvascript/' in front of the package name to scope it to your npm account. Also make sure the package name is what you want because it defaults to what you saved it as locally.
 
 - Change version to '0.1.0' to indicate its not ready yet.
@@ -19,7 +19,7 @@
 
 - Change license to 'MIT'
 
-### Third
+### Next
 - Type `npm whoami` and your npm name should pop up. If not, type `npm login` or go login on the npm site.
 
 - Your package needs to have 'export' or 'export default' on the functions for them to be imported by another project and utilized. See your other packages for examples. (Normally you would use 'module.exports' for this but you're utilizing ES6 modules and not Common.js right now.)
@@ -47,5 +47,5 @@
 - [JavaScript Mastery - "Learn how to deploy an NPM Package"](https://www.youtube.com/watch?v=8FziherTC8M)
 - [Web Dev Simplified - "How To Create And Publish Your First NPM Package"](https://www.youtube.com/watch?v=J4b_T-qH3BY)
 - [codedamn - "How to create and publish NPM Packages?"](https://www.youtube.com/watch?v=rTsz09zRuTU)
-### The Official Docs
+### The official docs
 - [npm Docs](https://docs.npmjs.com/about-packages-and-modules)
