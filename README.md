@@ -1,4 +1,4 @@
-# Creating an npm package
+# Creating An npm Package
 
 ## Getting Started
 ### Initial steps
