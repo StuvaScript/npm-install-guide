@@ -24,12 +24,12 @@
 
 - Your package needs to have 'export' or 'export default' on the functions for them to be imported by another project and utilized. See your other packages for examples. (Normally you would use 'module.exports' for this but you're utilizing ES6 modules and not Common.js right now.)
 
-## Testing
+### Testing
 - To test your package, in your package folder type `npm link`.
 
 - Then in another folder you want to link it to for testing, type `npm link {package name (including the '@stuvascript/' scope)}`. Because your package folder and project folder are now linked, if you make changes in either folder it will automatically update it in both the project folder and the package folder upon save.
 
-## Finish
+### Finish
 - To publish your SCOPED package PUBLICLY, type `npm publish --access public` to publish it to the npm registry. Each time you make an update and publish again, make sure you update the semantic versioning or it won't let you publish.
 
 - When your package is complete, change the version to '1.0.0'
