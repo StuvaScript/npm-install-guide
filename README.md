@@ -34,7 +34,7 @@
 
 - When your package is complete, change the version to '1.0.0'
 
-## To use in a project
+## To Use In A Project
 - Pretty sure you need Webpack to do any sort of browser stuff since node.js is a backend tool.
 
 - Type `npm init -y` in the new project. To install the package type `npm i {name of project}`. On your package's page there will be an 'Install' spot on the right that you can copy pasta instead if you want.
