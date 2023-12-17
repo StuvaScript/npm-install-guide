@@ -7,7 +7,7 @@
 
 - In the package folder type 'npm init -y' to generate a 'package.json' file
 
-- Change the name of the package to have '@stuvascript/' in front of the package name to scope it to your npm account. Also make sure the package name is what you want because it defaults to what you saved it as locally.
+Change the name of the package to have '@stuvascript/' in front of the package name to scope it to your npm account. Also make sure the package name is what you want because it defaults to what you saved it as locally.
 
 - Change version to '0.1.0' to indicate its not ready yet.
 
