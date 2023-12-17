@@ -1,5 +1,6 @@
-**Creating an npm package**
+#Creating an npm package
 
+## Getting Started
 - Create a new git repo for your npm package and clone it locally.
 
 - Make sure you have an 'index.js' file and a 'README.md' file.
@@ -26,10 +27,12 @@
 
 - When your package is complete, change the version to '1.0.0'
 
-**To use in a project**
-
+## To use in a project
 - Pretty sure you need Webpack to do any sort of browser stuff since node.js is a backend tool.
 
 - Type 'npm init -y' in the new project. To install the package type 'npm i {name of project}'. On your package's page there will be an 'Install' spot on the right that you can copy pasta instead if you want.
 
 - In your new project, Use the 'import' function to import the functions from the package. (Normally you would use the 'require' function assigned to a variable for this but you're utilizing ES6 modules and not Common.js right now.)
+
+## Links
+- [Swashbuckling with Code] (https://www.youtube.com/watch?v=WRjJW8tseQg)
