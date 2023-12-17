@@ -27,7 +27,7 @@
 ## Testing
 - To test your package, in your package folder type `npm link`.
 
-- Then in another folder you want to link it to for testing, type `npm link {package name (including the '@stuvascript/' scope)}`. Because your package folder and project folder are now linked, if you make changes in either folder it will automatically update it in both the project folder and the package folder.
+- Then in another folder you want to link it to for testing, type `npm link {package name (including the '@stuvascript/' scope)}`. Because your package folder and project folder are now linked, if you make changes in either folder it will automatically update it in both the project folder and the package folder upon save.
 
 ## Finish
 - To publish your SCOPED package PUBLICLY, type `npm publish --access public` to publish it to the npm registry. Each time you make an update and publish again, make sure you update the semantic versioning or it won't let you publish.
