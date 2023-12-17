@@ -36,9 +36,9 @@
 
 ## Links
 ### Videos
-- [Swashbuckling with Code](https://www.youtube.com/watch?v=WRjJW8tseQg)
-- [JavaScript Mastery](https://www.youtube.com/watch?v=8FziherTC8M)
-- [Web Dev Simplified](https://www.youtube.com/watch?v=J4b_T-qH3BY)
-- [codedamn](https://www.youtube.com/watch?v=rTsz09zRuTU)
+- [Swashbuckling with Code - "How to Create and Publish an NPM Package"](https://www.youtube.com/watch?v=WRjJW8tseQg)
+- [JavaScript Mastery - "Learn how to deploy an NPM Package"](https://www.youtube.com/watch?v=8FziherTC8M)
+- [Web Dev Simplified - "How To Create And Publish Your First NPM Package"](https://www.youtube.com/watch?v=J4b_T-qH3BY)
+- [codedamn - "How to create and publish NPM Packages?"](https://www.youtube.com/watch?v=rTsz09zRuTU)
 ### The Official Docs
 - [npm Docs](https://docs.npmjs.com/about-packages-and-modules)
